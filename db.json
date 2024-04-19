@@ -1,8 +1,7 @@
 {
   "order": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1,"id_comida": 1, "cliente": "oscar", "delivery": "rappi" },
+    { "id": 2,"id_comida": 1, "cliente": "oscar", "delivery": "rappi" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
